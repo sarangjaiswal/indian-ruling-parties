@@ -13,18 +13,18 @@ This is a **Python 3.6** module that depends on the **Folium** **Pandas** and **
 ## Usage
 Just run `VisualizeRulingPartyHistory.py` file. The output will be a html file `ruling_political_party_in_india.html` under `\maps` folder. 
 
-### Data
+## Data
 All data used in this example is sourced from internet.
 * **Shape Files**
     * https://indiamaps.gov.in/soiapp/
 * **Historical Election Results**
     * http://www.elections.in/previous-election-results.html
 
-### Map
+## Map
 This is the output of the project. Please refer the below [wikipedia](https://en.wikipedia.org/wiki/Category:India_political_party_colour_templates) page to determine the color code
 
 ![Map](img/2019_ruling_party_per_state.png)
 
 
-### Disclaimer
+## Disclaimer
 All data used in this example is sourced from internet. The Author does not take guarantee of accuracy.  
