@@ -1,4 +1,4 @@
-# Visualize ruling party history in India per state
+# Visualize history of election results in India
 A Project to Visualize history of election results in India on Map. 
 
 ## Installation
