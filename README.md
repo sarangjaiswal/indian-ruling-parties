@@ -19,6 +19,8 @@ All data used in this example is sourced from internet.
     * https://indiamaps.gov.in/soiapp/
 * **Historical Election Results**
     * http://www.elections.in/previous-election-results.html
+* **Election Commission of India**
+    * https://eci.gov.in/statistical-report/statistical-reports/
 
 ## Map
 This is the output of the project. Please refer the below [wikipedia](https://en.wikipedia.org/wiki/Category:India_political_party_colour_templates) page to determine the color code

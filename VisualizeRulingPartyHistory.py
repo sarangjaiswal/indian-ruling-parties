@@ -32,7 +32,8 @@ def add_data_to_map(color, state, year):
         line_color='black',
         line_weight=1,
         line_opacity=0.5,
-        highlight=True
+        highlight=True,
+
     ).add_to(feature_group)
 
     feature_group.add_to(m)
@@ -40,7 +41,7 @@ def add_data_to_map(color, state, year):
 
 # iterate the pandas data frame
 for index, row in df.iterrows():
-    add_data_to_map(row['hex_code'], row['state_name'], 2019)
+    add_data_to_map(row['hex_code'], row['state_name'], row['year'])
 
 # add layer to map
 folium.LayerControl().add_to(m)
